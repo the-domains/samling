@@ -1,0 +1,28 @@
+name: samling
+favicon: null
+layout_spectrum: 0.18766470300033689
+typography_spectrum: 0.15252415859140456
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8967354188207537
+  lightness: 0.9626850849017501
+  saturation: 0.2468815038446337
+  rhythmicContrast: 0.35953698866069317
+purpose: []
