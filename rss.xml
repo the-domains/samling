@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[samling]]></title>
+        <description><![CDATA[samling]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 21 Feb 2016 20:25:31 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Building what you don't know]]></title>
+            <description><![CDATA[<article><h1>Building what you don't know</h1><p>I came across The Grid when the queue was almost one you'd stand and physically wait in. Silly as I was, I didn't sign up then. Or the next time I came back to the site. It took me until the queue had grown way to long for being one you'd actually stand and wait in and my founding member number ended up being 24107.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d9e3a68-02af-4e58-bf8d-cc57b4e90950.png"></article>]]></description>
+            <link>undefinedbuilding-what-you-dont-know/index.html</link>
+            <guid isPermaLink="false">6429bf2f-9a8b-4515-a6fc-6eff686b163d</guid>
+            <pubDate>Sun, 21 Feb 2016 20:25:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
